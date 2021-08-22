@@ -2,9 +2,9 @@
 <h1>Hi, I'm Someron <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 </p>
 
-- 👨‍💻 I’m looking to collaborate on Front end development
+- 👨‍💻 I’m looking to collaborate on Full Stack Web Development
 - 🔭 I’m currently working on React Js
-- 💬 Ask me about web devlopment
+- 💬 Ask me about Web Devlopment
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
