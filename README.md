@@ -6,6 +6,9 @@
 - 🔭 I’m currently working on React Js
 - 💬 Ask me about Web Devlopment
 
+<div align="center">
+  
+### 🚀 GitHub Stats 🚀
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
 </p>
@@ -14,21 +17,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&layout=compact" width="37%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api?username=somerongit&show_icons=true" width="44%">
 </p>
+</div>
 
+<div align="center">
+  
 ## Skilled in 👨‍💻 
 
 ### Languages 
+  [ <img height="40" title="C"             alt="C"          src="https://img.icons8.com/color/100/000000/c-programming.svg"       /> ](https://isocpp.org/)
+[ <img height="40" title="C++"           alt="C++"        src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"    /> ](https://isocpp.org/)
+[ <img height="40" title="Python3"       alt="Python3"    src="https://img.icons8.com/color/100/000000/python.svg"              /> ](https://www.python.org/)
+[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://img.icons8.com/color/100/000000/javascript.svg"          /> ](https://www.javascript.com/)
+[ <img height="40" title="Type Scrpit" alt="Type Scrpit"  src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"                /> ](https://www.typescriptlang.org/)
 
-[<img align="left" alt="C" width="35px" src="https://img.icons8.com/color/452/c-programming.png" />][C]
-
-[<img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][C++]
-
-[<img align="left" alt="Python" width="35px" src="http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png" />][Python]
-
-[<img align="left" alt="JavaScript" width="35px" src="https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg" />][Javascript]
-
-[<img align="left" alt="TypeScript" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />][Typescript]
-<br><br>
 
 ### Database Management Systems
 
@@ -36,7 +37,6 @@
 [ <img height="40" title="GraphQL"    alt="GraphQL"    src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/graphql.svg"   /> ](https://graphql.org/)
 [ <img height="40" title="MongoDB"    alt="MongoDB"    src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/mongodb.svg"   /> ](https://www.mongodb.com/)
 
-<br>
 
 ### Machine Learning and Artificial Intelligence
 
@@ -45,66 +45,43 @@
 [ <img height="35" title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
 [ <img height="35" title="OpenCV"       alt="OpenCV"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/opencv.svg"    /> ](https://opencv.org/)
 [ <img height="35" title="TensorFlow"   alt="Tensorflow"   src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/tensorflow.svg"/> ](https://www.tensorflow.org/)
-<br>
+
 ### Frontend 
 
-[<img align="left" alt="HTML" width="35px" src="https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png" />][HTML]
+  [ <img height="40" title="HTML5"     alt="Html5"     src="https://img.icons8.com/color/100/000000/html-5.svg"                    /> ](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[ <img height="40" title="CSS3"      alt="Css3"      src="https://img.icons8.com/color/100/000000/css3.svg"                      /> ](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+[ <img height="40" title="ReactJS"   alt="ReactJS"   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"            /> ](https://reactjs.org/)
+[ <img height="40" title="AngularJS" alt="AngularJS" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"            /> ](https://angularjs.org/)  
+[ <img height="40" title="Sass"   alt="Sass"   src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"            /> ](https://sass-lang.com/)
+[ <img height="40" title="Bootstrap" alt="Bootstrap" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"            /> ](https://getbootstrap.com/)
 
-[<img align="left" alt="CSS" width="35px" src="https://www.optimum7.com/wp-content/uploads/2013/04/CSS3.png" />][CSS]
-
-[<img align="left" alt="Sass" width="35px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" />][Sass]
-
-[<img align="left" alt="Bootstrap" width="35px" src="https://www.drupal.org/files/project-images/bootstrap-stack.png" />][Bootstrap]
-
-[<img align="left" alt="React" width="35px" src="https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png" />][React]
-
-[ <img height="40" title="AngularJS" alt="AngularJS" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"/> ](https://angularjs.org/)
-<br><br>
 
 ### Backend 
 
-[<img align="left" alt="Flask" width="90px" src="https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png" />][Flask]
-
-[<img align="left" alt="Flask" width="35px" src="https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png" />][Django]
-
-
-<br><br>
-
+[ <img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /> ](https://palletsprojects.com/p/flask/)
+[ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ](https://www.djangoproject.com/)
 
 
 ### Tools 
 
-[<img align="left" alt="vs code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][vscode]
-[<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img  alt="vs code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />](https://code.visualstudio.com/)
+[<img  alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+</div>
 
-<br><br>
-## GitHub Achievements -
+## GitHub Achievements 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA)
 
 
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
 
+<img src="https://gpvc.arturio.dev/somerongit" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/somerongit?style=social"/> 
 
+</div>
 
-[C]: https://img.icons8.com/color/452/c-programming.png
-[C++]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
-[Python]: http://www.pngall.com/wp-content/uploads/5/Python-PNG-HD-Image.png
+---
 
-[Javascript]: https://p7.hiclipart.com/preview/793/545/309/javascript-programmer-node-js-web-application-vector-markup-language.jpg
-[Typescript]: https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png
-
-[Bootstrap]: https://www.drupal.org/files/project-images/bootstrap-stack.png
-[HTML]: https://www.shareicon.net/data/512x512/2015/08/28/92043_html_512x512.png
-[CSS]: https://www.optimum7.com/wp-content/uploads/2013/04/CSS3.png
-[Sass]: https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg
-
-[React]: https://miro.medium.com/max/4000/1*hNRK_zr3qrTORJXD3pwuZA.png
-[Flask]: https://miro.medium.com/max/480/1*MCpM5idqhNRjoWCfb_60OA.png
-[Django]: https://icons-for-free.com/iconfiles/png/512/bxl+django-1325051932950782714.png
-
-[Scikit]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png
-[NLP]: https://opennlp.apache.org/img/opennlp-logo.png
-[Tensorflow]: https://www.seekpng.com/png/detail/38-385514_open-tensorflow-logo-png.png
-[vscode]: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
