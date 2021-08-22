@@ -68,10 +68,17 @@
 [<img  alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 </div>
 
+
+  <div align="center">
+  
 ## GitHub Achievements 
+</div>
 
+<div align="right">
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA)
-
+  
+</div>
 
 <div align="center">
   
