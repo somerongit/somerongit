@@ -81,6 +81,9 @@
 </div>
 
 <div align="center">
+##  
+  
+  ![Snake animation](https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg)
   
 ### Show some ❤️ by starring some of the repositories!
 
