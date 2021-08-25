@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img  alt="Snake Game"  src="https://github.com/KainanGV/KainanGV/blob/output/github-contribution-grid-snake.svg" />
+<img  alt="Snake Game"  src="https://github.com/somerongit/somerongit/blob/main/github-contribution-somerongit-grid-snake.svg" />
 </div>
 
 <div align="center">
