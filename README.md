@@ -2,9 +2,9 @@
 <h1>Hi, I'm Someron <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h1>
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  I’m looking to collaborate on Full Stack Web Development
-### <img src="" width="45px"> I’m currently working on Front-end development
-- 💬 Ask me about Web Devlopment
+#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I’m currently working on Front-end development
+#### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30vw" /> Ask me about Web Devlopment
 
 <div align="center">
   
@@ -80,6 +80,8 @@
 
 <div align="right">
   
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github)
+  
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA)
   
 </div>
@@ -96,13 +98,16 @@
 
 </div>
 
----
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/someronbakuli height="30" width="40" /></a>
 </p>
+  
+  <hr>
+
+<h2  align="center"><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Check Out My Repos ⬇️ </h2>
 
 <!--
   ### Education 🎓  ### Projects 🐾  ### Public talks 🗣️  ### Contributions 💡  ### Skills 🛠️  ### Certifications 📜  ### Awards 🏆  ###Conference participation 📈
