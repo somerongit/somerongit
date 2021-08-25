@@ -1,9 +1,9 @@
 <p align="left">
-<h1>Hi, I'm Someron <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
+<h1>Hi, I'm Someron <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h1>
 </p>
 
-- 👨‍💻 I’m looking to collaborate on Full Stack Web Development
-- 🔭 I’m currently working on React Js
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">  I’m looking to collaborate on Full Stack Web Development
+### <img src="" width="45px"> I’m currently working on Front-end development
 - 💬 Ask me about Web Devlopment
 
 <div align="center">
@@ -88,8 +88,11 @@
   <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
-
-<img src="https://gpvc.arturio.dev/somerongit" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/somerongit?style=social"/> 
+  
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/somerongit/count.svg" />
+</p>
 
 </div>
 
@@ -101,3 +104,50 @@
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/someronbakuli height="30" width="40" /></a>
 </p>
 
+<!--
+  ### Education 🎓  ### Projects 🐾  ### Public talks 🗣️  ### Contributions 💡  ### Skills 🛠️  ### Certifications 📜  ### Awards 🏆  ###Conference participation 📈
+  ### Hackathon participation 💻 ### Github Stats ⭐ ✨ _special_ ✨ repository
+## Stargazers
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/somerongit/somerongit)](https://github.com/somerongit/somerongit/stargazers)
+  
+  **I'm a night 🦉** 
+
+```text
+🌞 Morning    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+🌃 Evening    15 commits     ███████████████░░░░░░░░░░   60.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesdays** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Wednesday    7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
+Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Friday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Sunday       7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+💬 Languages: 
+Python                   17 hrs 1 min        █████████████████░░░░░░░░   69.47% 
+SQL                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+Docker                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+
+🔥 Editors: 
+PyCharm                  24 hrs 30 mins      █████████████████████████   100.0%
+
+💻 Operating Systems: 
+Mac                      24 hrs 30 mins      █████████████████████████   100.0%
+
+```
+-->
