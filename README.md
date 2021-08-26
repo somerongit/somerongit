@@ -1,3 +1,8 @@
+<!--
+    Title: Welcome Page of Somerongit
+    Author: Someron Bakuli 
+-->
+
 <p align="left">
 <h1>Hi, I'm Someron <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h1>
 </p>
@@ -124,4 +129,9 @@ PyCharm                  24 hrs 30 mins      ███████████�
 Mac                      24 hrs 30 mins      █████████████████████████   100.0%
 
 ```
+-->
+  
+<!--
+    Title: Welcome Page of Somerongit
+    Author: Someron Bakuli 
 -->
