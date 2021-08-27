@@ -91,6 +91,9 @@
 <h2  align="center"><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Check Out My Repos ⬇️ </h2>
 
 <!--
+    GIFs 
+    https://github.com/TheDudeThatCode/TheDudeThatCode/tree/master/Assets
+    
   ### Education 🎓  ### Projects 🐾  ### Public talks 🗣️  ### Contributions 💡  ### Skills 🛠️  ### Certifications 📜  ### Awards 🏆  ###Conference participation 📈
   ### Hackathon participation 💻 ### Github Stats ⭐ ✨ _special_ ✨ repository
 ## Stargazers
