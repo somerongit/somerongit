@@ -4,7 +4,7 @@
 -->
 
 <p align="left">
-<h1>Hi, I'm Someron <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50"></h1>
+<h1>Hi there! I'm Someron <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="100"></h1>
 </p>
 
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
@@ -16,11 +16,9 @@
 
 <div align="center">
   
-### 🚀 GitHub Stats 🚀
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
+  <p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif">
 </p>
-
 
 [ <img height="35" title="Type Scrpit" alt="Type Scrpit"  src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"                /> ](https://www.typescriptlang.org/)
 [ <img height="40" title="Python3"       alt="Python3"    src="https://img.icons8.com/color/100/000000/python.svg"              /> ](https://www.python.org/)
@@ -32,8 +30,16 @@
 [ <img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /> ](https://palletsprojects.com/p/flask/)
 [ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ](https://www.djangoproject.com/)
 [<img  alt="vs code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />](https://code.visualstudio.com/)
+    
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25"> GitHub Stats <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
+</p>
 </div>
-  
+    
+
+    
 <p >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&layout=compact" width="37%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api?username=somerongit&show_icons=true" width="44%">
@@ -49,7 +55,7 @@
 
   <div align="center">
   
-## GitHub Achievements 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="28"> GitHub Achievements <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="28">
 </div>
 
 <div align="right">
@@ -64,13 +70,14 @@
   <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
+  </div>
   
-<p align="center"> 
-  Visitors count<br>
+<div align="center"> 
+ <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23" /> Visitors count <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23" /></h2>
   <img src="https://profile-counter.glitch.me/somerongit/count.svg" />
-</p>
-
 </div>
+
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
