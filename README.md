@@ -24,16 +24,16 @@
   <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Designer.gif">
 </p>
 
-[ <img height="35" title="Type Scrpit" alt="Type Scrpit"  src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"                /> ](https://www.typescriptlang.org/)
-[ <img height="40" title="Python3"       alt="Python3"    src="https://img.icons8.com/color/100/000000/python.svg"              /> ](https://www.python.org/)
-[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://img.icons8.com/color/100/000000/javascript.svg"          /> ](https://www.javascript.com/)
-[ <img height="35" title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
-[ <img height="35" title="OpenCV"       alt="OpenCV"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/opencv.svg"    /> ](https://opencv.org/)
-[ <img height="45" title="AngularJS" alt="AngularJS" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"            /> ](https://angularjs.org/)  
-[ <img height="40" title="Bootstrap" alt="Bootstrap" src="https://www.drupal.org/files/project-images/bootstrap-stack.png"            /> ](https://getbootstrap.com/)
-[ <img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /> ](https://palletsprojects.com/p/flask/)
-[ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ](https://www.djangoproject.com/)
-[<img  alt="vs code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />](https://code.visualstudio.com/)
+
+[ <img height="40" title="Python3"       alt="Python3"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif"              /> ](https://www.python.org/)[ <img height="35" title="Type Scrpit" alt="Type Scrpit"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/ts.png"                /> ](https://www.typescriptlang.org/)
+[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)
+[ <img height="35" title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
+[ <img height="35" title="OpenCV"       alt="OpenCV"       src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/opencv.svg"    /> ](https://opencv.org/)
+[ <img height="45" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif"            /> ](https://angularjs.org/)  
+[ <img height="40" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/bs.png"            /> ](https://getbootstrap.com/)
+[ <img height="40" title="Flask"     alt="Flask"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/flask.svg"    /> ](https://palletsprojects.com/p/flask/)
+[ <img height="50" title="Django"    alt="Django"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.gif"/> ](https://www.djangoproject.com/)
+[<img  alt="vs code" width="35px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vs.png" />](https://code.visualstudio.com/)
     
 ## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"> GitHub Stats <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25">
 
