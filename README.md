@@ -2,9 +2,12 @@
     Title: Welcome Page of Somerongit
     Author: Someron Bakuli 
 -->
+<p align="right">
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://somerongit.github.io/someronbakuli/#contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="Direct Mail" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
+</p>
 
 <p align="left">
-<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="https://t.me/SBakuli" height="50" width="50" /></a>
+<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100">
 </h1>
 </p>
 
@@ -84,7 +87,7 @@
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
-<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="https://t.me/SBakuli" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://somerongit.github.io/someronbakuli/#contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="Direct Mail" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
 </p>
   
   <hr>
