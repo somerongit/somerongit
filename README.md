@@ -4,7 +4,8 @@
 -->
 
 <p align="left">
-<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100"></h1>
+<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mail.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="https://t.me/SBakuli" height="50" width="50" /></a>
+</h1>
 </p>
 
 #### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
@@ -83,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
-<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/someronbakuli height="30" width="40" /></a>
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mail.gif" alt="https://www.linkedin.com/in/someronbakuli" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="https://t.me/SBakuli" height="50" width="50" /></a>
 </p>
   
   <hr>
