@@ -4,12 +4,12 @@
 -->
 
 <p align="left">
-<h1>Hi there! I'm Someron <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="100"></h1>
+<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100"></h1>
 </p>
 
-#### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> I’m currently working on Front-end development
-#### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30vw" /> Ask me about Web Devlopment
+#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
+#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"> I’m currently working on Front-end development
+#### <img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/QuestionFace.gif" width="30vw" /> Ask me about Web Devlopment
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 <div align="center">
   
   <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif">
+  <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Designer.gif">
 </p>
 
 [ <img height="35" title="Type Scrpit" alt="Type Scrpit"  src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"                /> ](https://www.typescriptlang.org/)
@@ -31,7 +31,7 @@
 [ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ](https://www.djangoproject.com/)
 [<img  alt="vs code" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />](https://code.visualstudio.com/)
     
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25"> GitHub Stats <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="25">
+## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"> GitHub Stats <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25">
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-<img  alt="Snake Game"  src="https://github.com/somerongit/somerongit/blob/main/github-contribution-somerongit-grid-snake.svg" />
+<img  alt="Snake Game"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/github-contribution-somerongit-grid-snake.svg" />
 </div>
 
 
@@ -55,7 +55,7 @@
 
   <div align="center">
   
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="28"> GitHub Achievements <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="28">
+## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"> GitHub Achievements <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28">
 </div>
 
 <div align="right">
@@ -73,14 +73,14 @@
   </div>
   
 <div align="center"> 
- <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23" /> Visitors count <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23" /></h2>
+ <h2> <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /> Visitors count <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></h2>
   <img src="https://profile-counter.glitch.me/somerongit/count.svg" />
 </div>
 
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/someronbakuli height="30" width="40" /></a>
@@ -88,58 +88,8 @@
   
   <hr>
 
-<h2  align="center"><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Check Out My Repos ⬇️ </h2>
+<h2  align="center"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> Check Out My Repos ⬇️ </h2>
 
-<!--
-    GIFs 
-    https://github.com/TheDudeThatCode/TheDudeThatCode/tree/master/Assets
-    
-  ### Education 🎓  ### Projects 🐾  ### Public talks 🗣️  ### Contributions 💡  ### Skills 🛠️  ### Certifications 📜  ### Awards 🏆  ###Conference participation 📈
-  ### Hackathon participation 💻 ### Github Stats ⭐ ✨ _special_ ✨ repository
-## Stargazers
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/somerongit/somerongit)](https://github.com/somerongit/somerongit/stargazers)
-  
-  **I'm a night 🦉** 
-
-```text
-🌞 Morning    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌆 Daytime    6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌃 Evening    15 commits     ███████████████░░░░░░░░░░   60.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesdays** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Wednesday    7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Sunday       7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-💬 Languages: 
-Python                   17 hrs 1 min        █████████████████░░░░░░░░   69.47% 
-SQL                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
-Bash                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-Docker                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
-
-🔥 Editors: 
-PyCharm                  24 hrs 30 mins      █████████████████████████   100.0%
-
-💻 Operating Systems: 
-Mac                      24 hrs 30 mins      █████████████████████████   100.0%
-
-```
--->
   
 <!--
     Title: Welcome Page of Somerongit
