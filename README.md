@@ -92,7 +92,7 @@
   
   <hr>
 
-<h2  align="center"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> Check Out My Repos ⬇️ </h2>
+<h2  align="center"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> Check Out My Repos <img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> </h2>
 
   
 <!--
