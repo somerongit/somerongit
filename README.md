@@ -33,6 +33,7 @@
 [ <img height="40" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/bs.png"            /> ](https://getbootstrap.com/)
 [ <img height="40" title="Flask"     alt="Flask"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/flask.svg"    /> ](https://palletsprojects.com/p/flask/)
 [ <img height="50" title="Django"    alt="Django"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.gif"/> ](https://www.djangoproject.com/)
+[<img  alt="Java" width="70px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/java.gif" />](https://code.visualstudio.com/)
 [<img  alt="vs code" width="35px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vs.png" />](https://code.visualstudio.com/)
     
 ## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"> GitHub Stats <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25">
