@@ -57,7 +57,7 @@
 
 
 
-  <div align="center">
+<div align="center">
   
 ## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"> GitHub Achievements <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28">
 </div>
