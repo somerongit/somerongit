@@ -12,7 +12,7 @@
 </p>
 
 #### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
-#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"> I’m currently working on Front-end development
+#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"> I’m currently working on Back-end development
 #### <img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/QuestionFace.gif" width="30vw" /> Ask me about Web Devlopment
 
 <div align="center">
