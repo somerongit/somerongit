@@ -57,18 +57,18 @@
 
 
 
-
+<!--
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"> GitHub Achievements <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28">
+## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"> GitHub Contribution <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28">
 </div>
-
+-->
 <div align="right">
-<!--  
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) -->
   
-![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA)
-  
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) 
+ <!-- 
+![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
+  -->
 </div>
 
   
