@@ -67,6 +67,9 @@
   
   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) 
  <!-- 
+
+Counter link: https://bit.ly/3gwSTxi
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
   -->
 </div>
