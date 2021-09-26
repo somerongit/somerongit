@@ -7,13 +7,13 @@
 </p>
 
 <p align="left">
-<h1>Hi there! I'm Someron <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100">
+<h1>Hi there! I'm Someron <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100"></a>
 </h1>
 </p>
 
-#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px">  I’m looking to collaborate on Full Stack Web Development
-#### <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"> I’m currently working on Back-end development
-#### <img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/QuestionFace.gif" width="30vw" /> Ask me about Web Devlopment
+#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
+#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"></a> I’m currently working on Back-end development
+#### <a href="https://gist.github.com/somerongit"><img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/QuestionFace.gif" width="30vw" /></a> Ask me about Web Devlopment
 
 <div align="center">
   
@@ -21,7 +21,7 @@
 <div align="center">
   
   <p align="center">
-  <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Designer.gif">
+  <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Designer.gif"></a>
 </p>
 
 
@@ -36,7 +36,7 @@
 [<img  alt="Java" width="70px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/java.gif" />](https://code.visualstudio.com/)
 [<img  alt="vs code" width="35px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vs.png" />](https://code.visualstudio.com/)
     
-## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"> GitHub Stats <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25">
+## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a> GitHub Stats <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-<img  alt="Snake Game"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/github-contribution-somerongit-grid-snake.svg" />
+<a href="https://gist.github.com/somerongit"><img  alt="Snake Game"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/github-contribution-somerongit-grid-snake.svg" /></a>
 </div>
 
 
@@ -60,12 +60,12 @@
 <!--
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"> GitHub Contribution <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28">
+## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a> GitHub Contribution <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a>
 </div>
 -->
 <div align="right">
   
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) 
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) ](https://gist.github.com/somerongit)
  <!-- 
 
 Counter link: https://bit.ly/3gwSTxi
@@ -81,14 +81,14 @@ Counter link: https://bit.ly/3gwSTxi
   </div>
   
 <div align="center"> 
- <h2> <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /> Visitors count <img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></h2>
-  <img src="https://profile-counter.glitch.me/somerongit/count.svg" />
+ <h2> <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a> Visitors count <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a></h2>
+  <a href="https://gist.github.com/somerongit"><img src="https://profile-counter.glitch.me/somerongit/count.svg" /></a>
 </div>
 
 
 
 
-<img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://www.dropbox.com/s/4h3ekgz7xq52nc2/SomeronBakuli.pdf?dl=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cv.png" alt="Resume" height="50" width="50" /></a><a href="https://somerongit.github.io/someronbakuli/#contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="Direct Mail" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a><a href="https://www.hackerrank.com/2020_CSE_3C_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/hackerrank.jpg" alt="Hackerrank" height="60" width="60" /></a>
@@ -97,7 +97,7 @@ Counter link: https://bit.ly/3gwSTxi
   
   <hr>
 
-<h2  align="center"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> Check Out My Repos <img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px> </h2>
+<h2  align="center"><a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px></a> Check Out My Repos <a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px></a> </h2>
 
   
 <!--
