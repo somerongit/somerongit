@@ -39,15 +39,15 @@
 ## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a> GitHub Stats <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit">
+  <a href="https://gist.github.com/somerongit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=somerongit"></a>
 </p>
 </div>
     
 
     
 <p >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&layout=compact" width="37%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src="https://github-readme-stats.vercel.app/api?username=somerongit&show_icons=true" width="44%">
+<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&layout=compact" width="37%"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api?username=somerongit&show_icons=true" width="44%"></a>
 </p>
 </div>
 
