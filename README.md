@@ -65,8 +65,9 @@
 -->
 <div align="right">
   
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&theme=github) ](https://gist.github.com/somerongit)
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&bg_color=fffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true) ](https://gist.github.com/somerongit)
  <!-- 
+<a href="https://gist.github.com/somerongit"><img src="https://readme-typing-svg.herokuapp.com/?lines=Show+some+❤️!"></a>
 
 Counter link: https://bit.ly/3gwSTxi
 
