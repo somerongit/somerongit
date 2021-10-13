@@ -46,8 +46,8 @@
 
     
 <p >
-<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&layout=compact" width="37%"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api?username=somerongit&show_icons=true" width="44%"></a>
+<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&hide=jupyter%20notebook,html&layout=compact&langs_count=5" ></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api?username=somerongit&count_private=true&show_icons=true" width="44%"></a>
 </p>
 </div>
 
