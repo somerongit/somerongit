@@ -25,16 +25,11 @@
 </p>
 
 
-[ <img height="40" title="Python3"       alt="Python3"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif"              /> ](https://www.python.org/)[ <img height="35" title="Type Scrpit" alt="Type Scrpit"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/ts.png"                /> ](https://www.typescriptlang.org/)
-[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)
-[ <img height="35" title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
-[ <img height="35" title="OpenCV"       alt="OpenCV"       src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/opencv.svg"    /> ](https://opencv.org/)
-[ <img height="45" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif"            /> ](https://angularjs.org/)  
-[ <img height="40" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/bs.png"            /> ](https://getbootstrap.com/)
-[ <img height="40" title="Flask"     alt="Flask"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/flask.svg"    /> ](https://palletsprojects.com/p/flask/)
+[ <img height="50" title="Java"       alt="Java"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/java.gif"              /> ](https://www.python.org/)[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)[ <img height="75" title="React" alt="React" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/React.gif"            /> ](https://reactjs.org/)[ <img height="35" title="NodeJs"       alt="NodeJs"       src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/nodejs.png"    /> ](https://nodejs.dev/)[ <img height="45" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif"            /> ](https://angularjs.org/)  
+[ <img height="40" title="Redis" alt="Redis" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"            /> ](https://redis.io/)
 [ <img height="50" title="Django"    alt="Django"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.gif"/> ](https://www.djangoproject.com/)
-[<img  alt="Java" width="70px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/java.gif" />](https://code.visualstudio.com/)
-[<img  alt="vs code" width="35px" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vs.png" />](https://code.visualstudio.com/)
+[<img width="40px" title="Python"       alt="Python"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif" />](https://www.python.org/)
+[<img width="35px" title="VS Code"       alt="VS Code"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vsCode.png" />](https://code.visualstudio.com/)
     
 ## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a> GitHub Stats <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a>
 
