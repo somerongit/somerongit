@@ -42,7 +42,7 @@
 
     
 <p >
-<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&hide=jupyter%20notebook,html&layout=compact&langs_count=5&border_color=fff" ></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somerongit&hide=jupyter%20notebook,html,css,scss&layout=compact&langs_count=5&border_color=fff" ></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://gist.github.com/somerongit"><img src="https://github-readme-stats.vercel.app/api?username=somerongit&count_private=true&show_icons=true&border_color=fff" width="46%"></a>
 </p>
 </div>
