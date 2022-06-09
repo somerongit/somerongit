@@ -12,9 +12,9 @@
 </h1>
 </p>
 
-#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
-#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cat.gif" width="40px"></a> I’m currently working on Back-end development
-#### <a href="https://gist.github.com/somerongit"><img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/QuestionFace.gif" width="30vw" /></a> Ask me about Web Devlopment
+#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
+#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1cat.gif" width="40px"></a> I’m currently working on Back-end development
+#### <a href="https://gist.github.com/somerongit"><img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1QuestionFace.gif" width="30vw" /></a> Ask me about Web Devlopment
 
 <div align="center">
   
@@ -29,7 +29,7 @@
 [ <img height="50" title="Java"       alt="Java"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/java.gif"              /> ](https://www.python.org/)[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)[ <img height="75" title="React" alt="React" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/React.gif"            /> ](https://reactjs.org/)[ <img height="35" title="NodeJs"       alt="NodeJs"       src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/nodejs.png"    /> ](https://nodejs.dev/)[ <img height="45" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.gif"            /> ](https://angularjs.org/)  
 [ <img height="40" title="Redis" alt="Redis" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"            /> ](https://redis.io/)
 [ <img height="50" title="Django"    alt="Django"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.gif"/> ](https://www.djangoproject.com/)
-[<img width="40px" title="Python"       alt="Python"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif" />](https://www.python.org/)
+<!-- [<img width="40px" title="Python"       alt="Python"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif" />](https://www.python.org/) -->
 [<img width="35px" title="VS Code"       alt="VS Code"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vsCode.png" />](https://code.visualstudio.com/)
     
 ## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a> GitHub Stats <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a>
@@ -97,7 +97,7 @@ Counter link: https://bit.ly/3gwSTxi
   
   <hr>
 
-<h2  align="center"><a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px></a> Check Out My Repos <a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/laptop.gif" width = 30px></a> </h2>
+<h2  align="center"><a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> Check Out My Repos <a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> </h2>
 
   
 <!--
