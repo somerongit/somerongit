@@ -13,7 +13,7 @@
 </p>
 
 #### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
-#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1cat.gif" width="40px"></a> I’m currently working on Back-end development
+#### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1go.gif" width="40px"></a> I’m currently working on Back-end development
 #### <a href="https://gist.github.com/somerongit"><img alt="GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1QuestionFace.gif" width="30vw" /></a> Ask me about Web Devlopment
 
 <div align="center">
