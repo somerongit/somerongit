@@ -2,6 +2,8 @@
     Title: Welcome Page of Somerongit
     Author: Someron Bakuli 
 -->
+
+
 <p align="right">
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/maill.gif" alt="Direct Mail" height="50" width="50" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
 </p>
@@ -11,6 +13,26 @@
 <h1>Hi there! I'm Someron <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Handshake.gif" width="100"></a>
 </h1>
 </p>
+<div align="right">
+
+  
+
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&bg_color=fffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true) ](https://gist.github.com/somerongit)
+
+    
+
+<!--
+
+<a href="https://gist.github.com/somerongit"><img src="https://readme-typing-svg.herokuapp.com/?lines=Show+some+❤️!"></a>
+
+Counter link: https://bit.ly/3gwSTxi
+
+![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
+
+-->
+
+</div>
+
 
 #### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
 #### <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1cat.gif" width="40px"></a> I’m currently working on Back-end development
@@ -59,27 +81,7 @@
 ## <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a> GitHub Contribution <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a>
 </div>
 
-<div align="right">
-  
 
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&bg_color=fffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true) ](https://gist.github.com/somerongit)
-
-    
-<!--
-<a href="https://gist.github.com/somerongit"><img src="https://readme-typing-svg.herokuapp.com/?lines=Show+some+❤️!"></a>
-
-Counter link: https://bit.ly/3gwSTxi
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
--->
-</div>
-
-  
-  <div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-  </div>
   
 <div align="center"> 
  <h2> <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a> Visitors count <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a></h2>
@@ -96,7 +98,11 @@ Counter link: https://bit.ly/3gwSTxi
 </p>
   
   <hr>
-
+  
+  <div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+  </div>
 <h2  align="center"><a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> Check Out My Repos <a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> </h2>
 
   
