@@ -75,13 +75,12 @@ Counter link: https://bit.ly/3gwSTxi
 
 
 
-
+<!--
 <div align="center">
   
 ## <a href="https://gist.github.com/somerongit"><img alt="Unable to load Stats" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a> GitHub Contribution <a href="https://gist.github.com/somerongit"><img alt="Unable to load Stats" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Medal.gif" width="28"></a>
 </div>
-
-
+-->
   
 <div align="center"> 
  <h2> <a href="https://gist.github.com/somerongit"><img alt="Unable to load Stats" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a> Visitors count <a href="https://gist.github.com/somerongit"><img alt="Unable to load Stats" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Earth.gif" width="23" /></a></h2>
