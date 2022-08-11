@@ -20,13 +20,9 @@
     
 
 <!--
-
-<a href="https://gist.github.com/somerongit"><img src="https://readme-typing-svg.herokuapp.com/?lines=Show+some+❤️!"></a>
-
 Counter link: https://bit.ly/3gwSTxi
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
-
 -->
 
 </div>
@@ -34,7 +30,7 @@ Counter link: https://bit.ly/3gwSTxi
 
 #### <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1Developer.gif" width="40px"></a>  I’m looking to collaborate on Full Stack Web Development
 #### <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1cat.gif" width="40px"></a> I’m currently working on Back-end development
-#### <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1QuestionFace.gif" width="30vw" /></a> Ask me about Web Devlopment
+#### <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1QuestionFace.gif" width="35px" /></a> Ask me about Web Devlopment
 
 <div align="center">
   
@@ -49,8 +45,6 @@ Counter link: https://bit.ly/3gwSTxi
 [ <img height="50" title="Python"       alt="Python.gif"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif"              /> ](https://www.python.org/)[ <img height="60" title="JavaScript"    alt="JavaScript.gif" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)[ <img height="75" title="React" alt="React.gif" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/React.gif"            /> ](https://reactjs.org/)[ <img height="40" title="NodeJs"       alt="NodeJs.gif"       src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/nodejs.png"    /> ](https://nodejs.dev/)[ <img height="65" title="Golang" alt="Golang.gif" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/go.gif"            /> ](https://go.dev/)  
 [ <img height="40" title="Redis" alt="Redis.gif" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"            /> ](https://redis.io/)
 [ <img height="50" title="GraphQl"    alt="GraphQl.gif"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/garphql.png"/> ](https://www.graphql.org/)[ <img height="50" title="Django"    alt="Django.gif"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.gif"/> ](https://www.djangoproject.com/)
-<!-- [<img width="40px" title="Python"       alt="Python.gif"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif" />](https://www.python.org/) -->
-[<img width="35px" title="VS Code"       alt="VS_Code.gif"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/vsCode.png" />](https://code.visualstudio.com/)
     
 ## <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a> GitHub Stats <a href="https://gist.github.com/somerongit"><img alt="Unable to load GIF" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/Rocket.gif" width="25"></a>
 
