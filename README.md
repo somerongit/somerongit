@@ -4,7 +4,7 @@
 -->
 
 <p align="right">
-<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://www.dropbox.com/s/s1xis64qxqn42ok/Someron_Bakuli.pdf?dl=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cv.png" alt="Resume" height="50" width="50" /><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://www.dropbox.com/s/s1xis64qxqn42ok/Someron_Bakuli.pdf?dl=0" target="blank"><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
 </p>
 
 <p align="left">
@@ -14,12 +14,12 @@
 <div align="right">
 
   
-
+<!--
   [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somerongit&bg_color=fffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true) ](https://gist.github.com/somerongit)
 
     
 
-<!--
+
 Counter link: https://bit.ly/3gwSTxi
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=somerongit&rank=B,C,AA,S)
@@ -85,7 +85,7 @@ Counter link: https://bit.ly/3gwSTxi
 <a href="https://gist.github.com/somerongit"><img src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/people.gif" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="right">
-<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://www.dropbox.com/s/s1xis64qxqn42ok/Someron_Bakuli.pdf?dl=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cv.png" alt="Resume" height="50" width="50" /><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
 </p>
   
   <hr>
