@@ -2,6 +2,8 @@
     Title: Welcome Page of Somerongit
     Author: Someron Bakuli 
 -->
+<img src="https://4.bp.blogspot.com/-C9RO7uxF_eA/XtlUEpA3C2I/AAAAAAAA12Q/tOrCvs1H45o2U2IcfMpi5FvHS23d01JqwCLcBGAsYHQ/s1600/India_flag_with_emblem.gif" />
+
 
 <p align="right">
 <a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://www.dropbox.com/s/s1xis64qxqn42ok/Someron_Bakuli.pdf?dl=0" target="blank"><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
