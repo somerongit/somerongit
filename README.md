@@ -2,7 +2,6 @@
     Title: Welcome Page of Somerongit
     Author: Someron Bakuli 
 -->
-<img src="https://4.bp.blogspot.com/-C9RO7uxF_eA/XtlUEpA3C2I/AAAAAAAA12Q/tOrCvs1H45o2U2IcfMpi5FvHS23d01JqwCLcBGAsYHQ/s1600/India_flag_with_emblem.gif" />
 
 
 <p align="right">
