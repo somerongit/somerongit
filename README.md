@@ -26,18 +26,21 @@
 [ <img height="40" title="Python3"       alt="Python3"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/py.gif"              /> ](https://www.python.org/)
 [ <img height="40" title="JavaScript"    alt="JavaScript" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/js.svg"          /> ](https://www.javascript.com/)
 [ <img height="40" title="TypeScript" alt="TypeScript"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/ts.png"                /> ](https://www.typescriptlang.org/)
-[ <img height="40" title="Go" alt="Go Lang"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/go.png"                /> ](https://go.dev/)
+[ <img height="40" title="Go" alt="Go Lang"  src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/go.jpeg"                /> ](https://go.dev/)
 
 #### Full-Stack Development
 
 [ <img height="40" title="HTML5"     alt="Html5"     src="https://img.icons8.com/color/100/000000/html-5.svg"                    /> ](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [ <img height="40" title="CSS3"      alt="Css3"      src="https://img.icons8.com/color/100/000000/css3.svg"                      /> ](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
-[ <img height="40" title="NodeJS"    alt="NodeJS"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/node.svg"                    /> ](https://nodejs.org/)
-[ <img height="40" title="ReactJS"   alt="ReactJS"   src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/react.svg"            /> ](https://reactjs.org/)
-[ <img height="40" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.svg"            /> ](https://angularjs.org/)
+[ <img height="45" title="NodeJS"    alt="NodeJS"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/node.svg"                    /> ](https://nodejs.org/)
+[ <img height="45" title="ReactJS"   alt="ReactJS"   src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/react.svg"            /> ](https://reactjs.org/)
+[ <img height="45" title="AngularJS" alt="AngularJS" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/angular.svg"            /> ](https://angularjs.org/)
 [ <img height="40" title="NextJs"     alt="NextJs"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/nextJs.png"                /> ](https://nextjs.org/)
 [ <img height="40" title="Flask"     alt="Flask"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/flask.svg"    /> ](https://palletsprojects.com/p/flask/)
 [ <img height="40" title="Django"    alt="Django"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/django.svg"/> ](https://www.djangoproject.com/)
+[ <img height="40" title="SkLearn"     alt="SkLearn"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
+[ <img height="35" title="OpenCv"     alt="OpenCv"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/opencv.svg"    /> ](https://opencv.org/)
+[ <img height="35" title="Pandas"     alt="Pandas"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/pandas.svg"    /> ](https://pandas.pydata.org/)
 [ <img height="40" title="Docker"     alt="Docker"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/docker.svg"    /> ](https://www.docker.com/)
 
 #### Database Management Systems
@@ -45,8 +48,8 @@
 [ <img height="35" title="MySQL"      alt="MySQL"      src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mysql.svg"     /> ](https://www.mysql.com/)
 [ <img height="35" title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/postgresql.svg"/> ](https://www.postgresql.org/)
 [ <img height="35" title="MongoDB"    alt="MongoDB"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mongodb.svg"   /> ](https://www.mongodb.com/)
-[ <img height="35" title="Redis"    alt=""    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"   /> ](https://graphql.org/)
-[ <img height="35" title="GraphQL"    alt="GraphQL"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/garphql.png"   /> ](https://graphql.org/)
+[ <img height="35" title="Redis"    alt=""    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"   /> ](https://redis.io/)
+[ <img height="40" title="GraphQL"    alt="GraphQL"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/garphql.png"   /> ](https://graphql.org/)
 [ <img height="35" title="Hasura"   alt="Hasura"   src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/hasura.png"  /> ](https://firebase.google.com/)
 
 
