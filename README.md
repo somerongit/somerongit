@@ -42,6 +42,7 @@
 [ <img height="35" title="OpenCv"     alt="OpenCv"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/opencv.svg"    /> ](https://opencv.org/)
 [ <img height="35" title="Pandas"     alt="Pandas"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/pandas.svg"    /> ](https://pandas.pydata.org/)
 [ <img height="40" title="Docker"     alt="Docker"     src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/docker.svg"    /> ](https://www.docker.com/)
+[ <img height="40" title="GraphQL"    alt="GraphQL"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/garphql.png"   /> ](https://graphql.org/)
 
 #### Database Management Systems
 
@@ -49,7 +50,6 @@
 [ <img height="35" title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/postgresql.svg"/> ](https://www.postgresql.org/)
 [ <img height="35" title="MongoDB"    alt="MongoDB"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mongodb.svg"   /> ](https://www.mongodb.com/)
 [ <img height="35" title="Redis"    alt=""    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"   /> ](https://redis.io/)
-[ <img height="40" title="GraphQL"    alt="GraphQL"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/garphql.png"   /> ](https://graphql.org/)
 [ <img height="35" title="Hasura"   alt="Hasura"   src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/hasura.png"  /> ](https://firebase.google.com/)
 
 <!--
