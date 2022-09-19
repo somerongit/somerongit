@@ -1,11 +1,12 @@
 <!--
     Title: Welcome Page of Somerongit
     Author: Someron Bakuli 
+    <a href="https://drive.google.com/file/d/1LtHQYnXEHqOYFhBWzAntJGGbbR6AvXy5/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cv.png" alt="Resume" height="50" width="50" /></a>
 -->
 
 
 <p align="right">
-<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="https://drive.google.com/file/d/1LtHQYnXEHqOYFhBWzAntJGGbbR6AvXy5/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/cv.png" alt="Resume" height="50" width="50" /></a><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/someronbakuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/LINKEDIN.gif" alt="LinkesIn Profile" height="50" width="50" /></a><a href="mailto:someron.bakuli05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/1mail.gif" alt="Direct Mail" height="45" width="45" /></a><a href="https://t.me/SBakuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/telegram.gif" alt="Telegram" height="50" width="50" /></a>
 </p>
 
 <p align="left">
