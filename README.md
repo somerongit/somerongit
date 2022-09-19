@@ -69,7 +69,7 @@
 </p>
 </div>
   -->
-
+<img width="1" src="https://profile-counter.glitch.me/somerongit/count.svg"/>
   
 <h2  align="center"><a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> Check Out My Repos <a href="https://gist.github.com/somerongit"><img src = "https://raw.githubusercontent.com/somerongit/somerongit/main/img/1laptop.gif" width = 30px></a> </h2>
 
