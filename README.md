@@ -51,7 +51,7 @@
 [ <img height="35" title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/postgresql.svg"/> ](https://www.postgresql.org/)
 [ <img height="35" title="MongoDB"    alt="MongoDB"    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/mongodb.svg"   /> ](https://www.mongodb.com/)
 [ <img height="35" title="Redis"    alt=""    src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/redis.png"   /> ](https://redis.io/)
-[ <img height="35" title="Hasura"   alt="Hasura"   src="https://raw.githubusercontent.com/somerongit/somerongit/main/img/hasura.png"  /> ](https://firebase.google.com/)
+
 
 <!--
 <div align="center">
