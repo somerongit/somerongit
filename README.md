@@ -56,8 +56,8 @@ HTML Format
 [ <img height="40" title="RabbitMq"     alt="RabbitMq"     src="https://somerongit.github.io/someronbakuli/assets/img/img/rabbitmq.png"    /> ](https://www.rabbitmq.com/)
 [ <img height="40" title="Mqtt"     alt="Mqtt"     src="https://somerongit.github.io/someronbakuli/assets/img/img/mqtt.png"    /> ](https://mqtt.org/)
 [ <img height="40" title="GithubActions"     alt="GithubActions"     src="https://somerongit.github.io/someronbakuli/assets/img/img/githubActions.png"    /> ](https://docs.github.com/en/actions)
-[ <img height="40" title="Docker"     alt="Docker"     src="https://somerongit.github.io/someronbakuli/assets/img/img/docker.svg"    /> ](https://www.docker.com/)
-[ <img height="40" title="Digitalocean"     alt="Digitalocean"     src="https://somerongit.github.io/someronbakuli/assets/img/img/digitalOcean.png"    /> ](https://www.digitalocean.com/)
+[ <img height="40" title="Docker"     alt="Docker"     src="https://somerongit.github.io/someronbakuli/assets/img/img/docker.svg"    /> ](https://www.docker.com/) 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=23daa0ef20cf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 [ <img height="40" title="AWS"     alt="AWS"     src="https://somerongit.github.io/someronbakuli/assets/img/img/aws.png"    /> ](https://docs.aws.amazon.com/)
 [ <img height="40" title="IBM Watson"     alt="IBM Watson"     src="https://somerongit.github.io/someronbakuli/assets/img/img/watson.png"    /> ](https://www.ibm.com/watson)
 
